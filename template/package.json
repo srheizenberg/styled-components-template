@@ -1,5 +1,5 @@
 {
-  "name": "template-styled-components-praticaguiada",
+  "name": "template-de-aula-styled-components",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -7,7 +7,12 @@
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-scripts": "4.0.0"
+    "react-scripts": "4.0.0",
+    "styled-components": "5.3.6"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
   },
   "scripts": {
     "start": "react-scripts start",
